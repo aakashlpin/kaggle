@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aakashlpin/kaggle/issues"
   },
-  "homepage": "https://github.com/aakashlpin/kaggle"
+  "homepage": "https://github.com/aakashlpin/kaggle",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "async": "^0.9.0",
+    "request": "^2.51.0"
+  }
 }
